@@ -1,4 +1,3 @@
-Here's an example README message for your GitHub repository on "Assessing the influence of soil parameters in the Climate Land Model version 5 using empirical orthogonal function":
 
 # Assessing the influence of soil parameters in the Climate Land Model version 5 using empirical orthogonal function
 
